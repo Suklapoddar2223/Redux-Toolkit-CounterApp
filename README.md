@@ -1,3 +1,8 @@
+## Netilify link added
+https://scintillating-hotteok-fe4e45.netlify.app/
+
+
+
 This is simple counter app to practice basics of redux-toolkit.
 
 I created a repo in github and then a react app folder in local folder.
