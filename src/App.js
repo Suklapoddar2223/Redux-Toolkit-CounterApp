@@ -1,11 +1,14 @@
 import React from 'react';
+import Counter from './features/counter/Counter'
+
 
 import "./index.css"
 
-function App() {
+const App = () => {
+
   return (
     <div>
-      <h1>Welcome</h1>
+  <Counter />
     </div>
   );
 }

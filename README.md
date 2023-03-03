@@ -19,3 +19,7 @@ e as upstream, use
 
 h) git push --set-upstream origin master   
 
+Redux-Toolkit => Action,reducer,store
+
+
+
