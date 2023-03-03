@@ -14,3 +14,8 @@ e) git commit -m ""
 f) git remote add origin (copy and paste repository clone)
 g) git push origin master/main
 
+The current branch master has no upstream branch.
+e as upstream, use
+
+h) git push --set-upstream origin master   
+
